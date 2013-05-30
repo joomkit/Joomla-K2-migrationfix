@@ -10,6 +10,7 @@ If you have multiple authors for K2 items then this will probably NOT be for you
 
 Instructions
 ============
+BACKUP your Joomla 2.5 migration database first!
 
 place in your site root and navigate to the file
 
